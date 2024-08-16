@@ -1,1 +1,1 @@
-# text_summarization code is imcomplete,just created folder structure
+# text_summarization code is incomplete,just created folder structure
